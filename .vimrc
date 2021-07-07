@@ -69,7 +69,7 @@ if &diff
   map <F9> :new<CR>:read !svn diff<CR>:set syntax=diff buftype=nofile<CR>gg
 else
   " spell settings
-  :setlocal spell spelllang=en
+  " :setlocal spell spelllang=en
   " set the spellfile - folders must exist
   set spellfile=~/.vim/spellfile.add
   map <M-Down> ]s
