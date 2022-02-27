@@ -2,7 +2,16 @@
 To learn everything about C++
 
 To compile on Mac
-clang++ -std=c++17 file.c
+clang++ file.c -std=c++17
 
 To compile on Windows
-g++ file.c
+g++ file.c -std=c++17
+
+Explore:
+[] Proecdural programming
+[] Object-oriented programming
+[] Metaprogramming
+[] Functional programming
+[] Generic programming
+[] Data-oriented programming
+[] Lock-free programming
