@@ -1,1 +1,1 @@
-*.Vim\script linguist-detectable=false
+*.vimrc linguist-detectable=false
